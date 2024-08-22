@@ -11,23 +11,34 @@ This repository contains a paper list related to **Large Graph Models**. Similar
 
 We will try our best to make this paper list updated. If you notice some related papers missing or have any suggestion, do not hesitate to contact us via pull requests at our repo.
 
+Note: this project was initiated while I was a postdoc researcher at Tsinghua University. I have started my new career at Beihang University so my personal updates for this paper list will be released in this forked repo.
+
 # Papers
 
 ## Perspective and Survey
 
 #### Overall
 - [NeurIPS 2023 GLFrontiers Workshop] Graph Meets LLMs: Towards Large Graph Models [[paper]](https://openreview.net/attachment?id=cVIRwcJ3Cb&name=pdf)
-- [arXiv 2024.02] Future Directions in Foundations of Graph Machine Learning [[paper]](https://arxiv.org/pdf/2402.02287)
-- [arXiv 2024.02] Graph Foundation Models [[paper]](https://arxiv.org/pdf/2402.02216)
-- [arXiv 2023.12] Large Language Models on Graphs: A Comprehensive Survey [[paper]](https://arxiv.org/pdf/2312.02783)
-- [arXiv 2023.11] A Survey of Graph Meets Large Language Model: Progress and Future Directions [[paper]](https://arxiv.org/pdf/2311.12399)
+- [KDD 2024] A Survey of Large Language Models for Graphs [[paper]](https://arxiv.org/pdf/2405.08011) [[paper list]](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
+- [ICML 2024] Position: Graph Foundation Models Are Already Here [[paper]](https://arxiv.org/pdf/2402.02216) [[paper list]](https://github.com/CurryTang/Awesome_Graph_Foundation_Models)
+- [IEEE Intelligent Systems 2024.01] Integrating Graphs with Large Language Models: Methods and Prospects [[paper]](https://arxiv.org/pdf/2310.05499)
+- [arXiv 2024.04] Graph Machine Learning in the Era of Large Language Models (LLMs) [[paper]](https://arxiv.org/abs/2404.14928)
+- [arXiv 2024.04] A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications [[paper]](https://arxiv.org/pdf/2404.14809)
+- [arXiv 2024.02] Advancing Graph Representation Learning with Large Language Models: A Comprehensive Survey of Techniques [[paper list]](https://arxiv.org/abs/2402.05952)
+- [arXiv 2023.12] Large Language Models on Graphs: A Comprehensive Survey [[paper]](https://arxiv.org/pdf/2312.02783) [[paper list]](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)
+- [arXiv 2023.11] Graph Learning and Its Advancements on Large Language Models A Holistic Survey [[paper]](https://arxiv.org/abs/2212.08966v4)
+- [arXiv 2023.11] A Survey of Graph Meets Large Language Model: Progress and Future Directions [[paper]](https://arxiv.org/pdf/2311.12399) [[paper list]](https://github.com/yhLeeee/Awesome-LLMs-in-Graph-tasks)
 - [arXiv 2023.10] Towards Graph Foundation Models: A Survey and Beyond [[paper]](https://arxiv.org/pdf/2310.11829)
-- [arXiv 2023.10] Integrating Graphs with Large Language Models: Methods and Prospects [[paper]](https://arxiv.org/pdf/2310.05499)
 
 #### Prompt
 - [arXiv 2024.02] Few-Shot Learning on Graphs: from Meta-learning to Pre-training and Prompting [[paper]](https://arxiv.org/pdf/2402.0144)
-- [arXiv 2023.11] Graph Prompt Learning: A Comprehensive Survey and Beyond [[paper]](https://arxiv.org/pdf/2311.16534)
+- [arXiv 2023.11] Graph Prompt Learning: A Comprehensive Survey and Beyond [[paper]](https://arxiv.org/pdf/2311.16534) [[paper list]](https://github.com/WxxShirley/Awesome-Graph-Prompt)
 - [arXiv 2023.03] A Survey of Graph Prompting Methods: Techniques, Applications, and Challenges [[paper]](https://arxiv.org/pdf/2303.07275.pdf)
+
+#### Miscellaneous
+- [arXiv 2024.03] A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective [[paper]](https://arxiv.org/abs/2403.16137) [[paper list]](https://github.com/Newiz430/Pretext)
+- [arXiv 2023.04] Segment Anything in Non-Euclidean Domains: Challenges and Opportunities [[paper]](https://arxiv.org/abs/2304.11595)
+
 
 ## Model
 ### LLMs as Graph Models
