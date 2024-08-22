@@ -87,8 +87,8 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [KBS 2024] GPL-GNN: Graph prompt learning for graph neural network [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705124000261) [[code]](https://github.com/chenzihaoww/GPL-GNN)
 - [IPM 2024] G-Prompt: Graphon-based Prompt Tuning for graph classification [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S030645732300376X)
 - [arXiv 2024.08] RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning [[paper]](https://arxiv.org/abs/2408.03195)
-- [arXiv 2024.07] Graph Structure Prompt Learning: A Novel Methodology to Improve Performance of Graph Neural Networks [[paper]](https://arxiv.org/abs/2407.11361) [[code]](https://github.com/PreckLi/graph_prompt_learning）
-- [arXiv 2024.06] ProG: A Graph Prompt Learning Benchmark [[paper]](https://arxiv.org/abs/2406.05346v2） [[code]](https://github.com/sheldonresearch/ProG)
+- [arXiv 2024.07] Graph Structure Prompt Learning: A Novel Methodology to Improve Performance of Graph Neural Networks [[paper]](https://arxiv.org/abs/2407.11361) [[code]](https://github.com/PreckLi/graph_prompt_learning)
+- [arXiv 2024.06] ProG: A Graph Prompt Learning Benchmark [[paper]](https://arxiv.org/abs/2406.05346v2) [[code]](https://github.com/sheldonresearch/ProG)
 - [arXiv 2024.06] A Unified Graph Selective Prompt Learning for Graph Neural Networks [[paper]](https://arxiv.org/abs/2406.10498)
 - [arXiv 2024.05] DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs [[paper]](https://arxiv.org/abs/2405.13937)
 - [arXiv 2024.05] Prompt-Enhanced Spatio-Temporal Graph Transfer Learning [[paper]](https://arxiv.org/abs/2405.12452)
@@ -111,10 +111,29 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [arXiv 2023.02] SGL-PT: A Strong Graph Learner with Graph Prompt Tuning [[paper]](https://arxiv.org/pdf/2302.12449.pdf)
 - [KDD 2022] GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks [[paper]](https://dl.acm.org/doi/10.1145/3534678.3539249)
 
-#### Graph Parameter-efficient Fine-tuning
+### Graph Fine-tuning
+- [AAAI 2024] Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns [[paper]](https://arxiv.org/abs/2312.13583) [[code]](https://github.com/zjunet/G-Tuning)
 - [AAAI 2024] G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks [[paper]](https://arxiv.org/pdf/2305.10329)
-- [AAAI 2024] AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks [[paper]](https://arxiv.org/pdf/2304.09595)
-- [arXiv 2023.08] Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks [[paper]](https://arxiv.org/pdf/2308.06960)
+- [AAAI 2024] AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks [[paper]](https://arxiv.org/pdf/2304.09595) [[code]](https://github.com/Lucius-lsr/AdapterGNN)
+- [arXiv 2024] Parameter-Efficient Tuning Large Language Models for Graph Representation Learning [[paper]](https://arxiv.org/pdf/2404.18271) 
+- [arXiv 2023.09] TouchUp-G: Improving Feature Representation through Graph-Centric Finetuning [[paper]](https://arxiv.org/abs/2309.13885)
+- [arXiv 2023.08] Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks [[paper]](https://arxiv.org/pdf/2308.06960) [[code]](https://anonymous.4open.science/r/code_icde2024-A9CB/)
+
+### Graph Scaling-Law 
+- [WWW 2024] Exploring Neural Scaling Law and Data Pruning Methods For Node Classification on Large-scale Graphs [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645571)
+- [arXiv 2024.06] Towards Neural Scaling Laws for Foundation Models on Temporal Graphs [[code]](https://github.com/benjaminnNgo/ScalingTGNs)
+- [arXiv 2024.06] Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models [[paper]](https://arxiv.org/abs/2406.01899) [[code]](https://github.com/WenzhuoTang/UniAug)
+- [arXiv 2024.02] Neural Scaling Laws on Graphs [[Paper]](https://arxiv.org/abs/2402.02054) [[code]](https://github.com/Liu-Jingzhe/graph-scaling-laws)
+
+## Benchmarks
+- [arXiv 2024.07<!--07457-->] GLBench: A Comprehensive Benchmark for Graph with Large Language Models [[paper]](https://arxiv.org/abs/2407.07457) [[code]](https://github.com/NineAbyss/GLBench)
+- [arXiv 2024.07<!--00379-->] GraphArena: Benchmarking Large Language Models on Graph Computational Problems [[paper]](https://arxiv.org/abs/2407.00379) [[code]](https://github.com/squareRoot3/GraphArena)
+- [arXiv 2024.07<!--02936-->] GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models [[paper]](https://arxiv.org/abs/2407.02936) [[code]](https://github.com/ZIKEYUAN/GraCoRe)
+- [arXiv 2024.06<!--16176-->] GraphEval2000: Benchmarking and Improving Large Language Models on Graph Datasets [[paper]](https://arxiv.org/abs/2406.16176) [[code]](https://harrywuhust2022.github.io/GraphEval2000)
+- [arXiv 2024.06<!--12072-->] DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs [[paper]](https://arxiv.org/abs/2406.12072) [[code]](https://github.com/zjs123/DTGB)
+- [arXiv 2024.06<!--10727-->] Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights [[paper]](https://arxiv.org/abs/2406.10727) [[code]](https://github.com/CurryTang/TSGFM)
+- [arXiv 2024.06<!--10310-->] TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs [[paper]](https://github.com/Zhuofeng-Li/TEG-Benchmark) [[code]](https://github.com/Zhuofeng-Li/TEG-Benchmark)
+- [arXiv 2024.06<!--08310-->] GraphFM: A Comprehensive Benchmark for Graph Foundation Model [[paper]](https://arxiv.org/abs/2406.08310) [[code]](https://github.com/NYUSHCS/GraphFM)
 
 ## Applications
 #### Knowledge Graph
@@ -128,10 +147,10 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [arXiv 2023.07] Can Large Language Models Empower Molecular Property Prediction? [[paper]](https://arxiv.org/pdf/2307.07443) [[code]](https://github.com/ChnQ/LLM4Mol)
 
 #### Neural Architecture Search
+- [NeurIPS 2023] EvoPrompting: Language Models for Code-Level Neural Architecture Search [[paper]](https://arxiv.org/abs/2302.14838) [[code]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning)
 - [arXiv 2023.12] Heterogeneous Graph Neural Architecture Search with GPT-4 [[paper]](https://arxiv.org/pdf/2312.0868)
 - [arXiv 2023.10] Graph Neural Architecture Search with GPT-4 [[paper]](https://arxiv.org/pdf/2310.01436)
 - [arXiv 2023.09] Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [[paper]](https://arxiv.org/pdf/2309.04565)
-- [arXiv 2023.02] EvoPrompting: Language Models for Code-Level Neural Architecture Search [[paper]](https://arxiv.org/pdf/2302.14838) [[code]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning)
 
 #### Miscellaneous
 - [arXiv 2023.10] AUTOPARLLM: GNN-Guided Automatic Code Parallelization using Large Language Models [[paper]](https://arxiv.org/pdf/2310.04047)
