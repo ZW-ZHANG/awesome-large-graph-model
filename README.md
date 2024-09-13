@@ -154,6 +154,7 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [arXiv 2024.03] Exploring Task Unification in Graph Representation Learning via Generative Approach [[paper]](https://arxiv.org/abs/2403.14340) 
 - [NeurIPS 2023] Train Once and Explain Everywhere: Pre-training Interpretable Graph Neural Networks [[paper]](https://papers.nips.cc/paper_files/paper/2023/hash/6ecd51685e2d765bc0ad32a2e73faf62-Abstract-Conference.html)
 - [NeurIPS 2023 workshop] Towards Generalised Pre-Training of Graph Models [[paper]](https://arxiv.org/abs/2311.03976) [[code]](https://github.com/neutralpronoun/general-gcl)
+## Graph Prompts
 #### 2024
 - [KDD 2024] A Novel Prompt Tuning for Graph Transformers [[paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671804) [[code]](https://github.com/jikjn/TGPT)
 - [KDD 2024] Cross-Context Backdoor Attacks against Graph Prompt Learning [[paper]](https://arxiv.org/abs/2405.17984) [[code]](https://github.com/xtLyu/CrossBA)
@@ -224,11 +225,41 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [arXiv 2023.08] Large Language Models and Knowledge Graphs: Opportunities and Challenges [[paper]](https://arxiv.org/abs/2308.0637)
 - [arXiv 2023.06] Unifying Large Language Models and Knowledge Graphs: A Roadmap [[paper]](https://arxiv.org/abs/2306.08302)
 
-## Molecules
+## Bios
+### Molecules
+#### LLM-related
+- [ACL 2024] MolTC: Towards Molecular Relational Modeling In Language Models [[paper]](https://arxiv.org/abs/2402.03781) [[code]](https://github.com/MangoKiller/MolTC) 
+- [CompBioMed 2024] GIT-Mol A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[paper]](https://arxiv.org/abs/2308.069) [[code]](https://github.com/AI-HPC-Research-Team/GIT-Mol)
+- [ACL Findings 2024] Harnessing Large Language Models as Post-hoc Correctors [[paper]](https://aclanthology.org/2024.findings-acl.867.pdf)
+- [ACL 2024 workshop] Could Chemical Language Models benefit from Message Passing [[paper]](https://arxiv.org/abs/2405.08334) 
+- [arXiv 2024.08] Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models [[paper]](https://www.arxiv.org/abs/2408.10124)
+- [arXiv 2024.06] LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning [[paper]](https://arxiv.org/abs/2406.01032)
+- [arXiv 2024.06] MolX: Enhancing Large Language Models for Molecular Learning with A Multi-Modal Extension [[paper]](https://arxiv.org/abs/2406.06777)
+- [arXiv 2024.06] In-Context Learning of Physical Properties: Few-Shot Adaptation to Out-of-Distribution Molecular Graphs [[paper]](https://arxiv.org/abs/2406.01808) 
+- [arXiv 2024.03] Large Language Models are In-Context Molecule Learners [[paper]](https://arxiv.org/abs/2403.04197) 
+- [arXiv 2024.03] Benchmarking Large Language Models for Molecule Prediction Tasks [[paper]](https://arxiv.org/abs/2403.05075) [[code]](https://github.com/zhiqiangzhongddu/LLMaMol)
+- [arXiv 2024.01] MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction [[paper]](https://arxiv.org/abs/2406.12950) [[code]](https://github.com/NYUSHCS/MolecularGPT) 
+- [arXiv 2024.01] Can Large Language Models Understand Molecules [[paper]](https://arxiv.org/abs/2402.00024) [[code]](https://github.com/sshaghayeghs/LLaMA-VS-GPT)
 - [NeurIPS 2023] GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[paper]](https://openreview.net/pdf?id=Tt6DrRCgJV) [[code]](https://github.com/zhao-ht/GIMLET)
 - [arXiv 2023.09] DrugChat: Towards Enabling ChatGPT-Like Capabilities on Drug Molecule Graphs [[paper]](https://arxiv.org/abs/2309.03907) [[code]](https://github.com/UCSD-AI4H/drugchat)
-- [arXiv 2023.08] GIT-Mol A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[paper]](https://arxiv.org/abs/2308.069)
 - [arXiv 2023.07] Can Large Language Models Empower Molecular Property Prediction? [[paper]](https://arxiv.org/abs/2307.07443) [[code]](https://github.com/ChnQ/LLM4Mol)
+#### Non-LLMs
+- [ICLR 2024] Towards Foundational Models for Molecular Learning on Large-Scale Multi-Task Datasets [[paper]](https://arxiv.org/abs/2310.04292) [[code]](https://github.com/datamol-io/graphium)
+- [arXiv 2024.04] MiniMol: A Parameter-Efficient Foundation Model for Molecular Learning [[paper]](https://arxiv.org/abs/2404.14986)
+- [arXiv 2024.02] Advanced Drug Interaction Event Prediction [[paper]](https://arxiv.org/abs/2402.11472) 
+- [arXiv 2023.07] MolFM: A Multimodal Molecular Foundation Model [[paper]](https://arxiv.org/abs/2307.09484) [[code]](https://github.com/BioFM/OpenBioMed)
+- [arXiv 2022.12] MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning [[paper]](https://arxiv.org/abs/2212.10614) [[code]](https://anonymous.4open.science/r/GraphCL-7105)
+
+### Protein
+#### LLM-related
+- [AAAI 2024] Prot2Text: Multimodal Protein’s Function Generation with GNNs and Transformers [[paper]](https://arxiv.org/abs/2307.14367) [[code]](https://github.com/hadi-abdine/Prot2Text)
+- [arXiv 2024] Endowing Protein Language Models with Structural Knowledge [[paper]](https://arxiv.org/abs/2401.14819) [[code]](https://github.com/BorgwardtLab/PST)
+#### Non-LLMs
+
+### Gene and Omics
+#### LLM-related
+- [WWW 2024 Companion] Thought Graph: Generating Thought Process for Biological Reasoning [[paper]](https://arxiv.org/abs/2403.07144) [[code]](https://github.com/ethan5437/thought-graph-www/)
+#### Non-LLMs
 
 ## Neural Architecture Search
 - [NeurIPS 2023] EvoPrompting: Language Models for Code-Level Neural Architecture Search [[paper]](https://arxiv.org/abs/2302.14838) [[code]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning)
@@ -237,6 +268,7 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [arXiv 2023.09] Unleashing the Power of Graph Learning through LLM-based Autonomous Agents [[paper]](https://arxiv.org/abs/2309.04565)
 
 ## Miscellaneous
+- [NeurIPS 2023 workshop] CLAMP: A Contrastive Language And Molecule Pre-training Network [[paper]](https://arxiv.org/abs/2311.07617) [[code]](https://github.com/neelr/clamp)
 - [arXiv 2023.10] AUTOPARLLM: GNN-Guided Automatic Code Parallelization using Large Language Models [[paper]](https://arxiv.org/abs/2310.04047)
 - [arXiv 2023.09] VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model [[paper]](https://arxiv.org/abs/2309.08474)
 - [arXiv 2023.08] FoodGPT A Large Language Model in Food Testing Domain with Incremental Pre-training and Knowledge Graph Prompt [[paper]](https://arxiv.org/abs/2308.10173)
