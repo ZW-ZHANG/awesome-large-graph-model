@@ -44,6 +44,7 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 # LLM-related
 ## LLMs as Predictors
 #### 2024
+- [NeurIPS 2024] G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [[paper]](https://arxiv.org/abs/2402.07630) [[code]](https://github.com/XiaoxinHe/G-Retriever)
 - [KDD 2024] LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs? [[paper]](https://arxiv.org/abs/2310.17110) [[code]](https://github.com/wondergo2017/LLM4DyG)
 - [KDD 2024] GraphWiz: An Instruction-Following Language Model for Graph Computational Problems	[[paper]](https://arxiv.org/abs/2402.16029) [[code]](https://github.com/nuochenpku/Graph-Reasoning-LLM)
 - [TMLR 2024] Can LLMs Effectively Leverage Graph Structural Information through Prompts, and Why [[paper]](https://arxiv.org/abs/2309.16595) [[code]](https://github.com/TRAIS-Lab/LLM-Structured-Data)
@@ -57,7 +58,10 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [COLING 2024] Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing [[paper]](https://aclanthology.org/2024.lrec-main.707/) [[code]](https://github.com/code4paper-2024/code4paper)
 - [EACL 2024] Language is All a Graph Needs [[paper]](https://arxiv.org/abs/2308.07134) [[code]](https://github.com/agiresearch/InstructGLM)
 - [COLM 2024] Investigating Instruction Tuning Large Language Models on Graphs [[paper]](https://arxiv.org/abs/2408.05457) [[code]](https://github.com/ZhuKerui/graph-instruction-tuning)
-- [SouthNLP 2024] [[paper]] FlowGPT: How Long can LLMs Trace Back and Predict the Trends of Graph Dynamics(https://southnlp.github.io/southnlp2024/papers/southnlp2024-poster-22.pdf) [[code]](https://zenodo.org/records/10517068) 
+- [SouthNLP 2024] FlowGPT: How Long can LLMs Trace Back and Predict the Trends of Graph Dynamics [[paper]] (https://southnlp.github.io/southnlp2024/papers/southnlp2024-poster-22.pdf) [[code]](https://zenodo.org/records/10517068)
+- [arXiv 2024.10] Language Models are Graph Learners [[paper]](https://arxiv.org/abs/2410.02296)
+- [arXiv 2024.09] GUNDAM: Aligning Large Language Models with Graph Understanding [[paper]](https://arxiv.org/abs/2409.20053)
+- [arXiv 2024.09] Graph Reasoning with Large Language Models via Pseudo-code Prompting [[paper]](https://arxiv.org/abs/2409.17906) [[code]](https://github.com/y3nk0/graph-reasoning-llms)
 - [arXiv 2024.09] GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding [[paper]](https://arxiv.org/abs/2409.03258)
 - [arXiv 2024.08] CodeGraph: Enhancing Graph Reasoning of LLMs with Code [[paper]](https://arxiv.org/abs/2408.13863) [[code]](https://github.com/HKUST-KnowComp/CodeGraph) 
 - [arXiv 2024.08] Revisiting the Graph Reasoning Ability of Large Language Models: Case Studies in Translation, Connectivity and Shortest Path [[paper]](https://www.arxiv.org/abs/2408.09529) [[code]](https://anonymous.4open.science/r/LLM-graph-evaluation-5E2C)
@@ -76,7 +80,6 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [arXiv 2024.03] GraphInstruct: Empowering Large Language Models with Graph Understanding and Reasoning Capability [[paper]](https://arxiv.org/abs/2403.04483) [[code]](https://github.com/CGCL-codes/GraphInstruct)
 - [arXiv 2024.02] Graph Descriptive Order Improves Reasoning with Large Language Model [[paper]](https://arxiv.org/abs/2402.07140) 
 - [arXiv 2024.02] Similarity-based Neighbor Selection for Graph LLMs [[paper]](https://arxiv.org/abs/2402.03720) [[code]](https://github.com/ruili33/SNS)
-- [arXiv 2024.02] G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [[paper]](https://arxiv.org/abs/2402.07630) [[code]](https://github.com/XiaoxinHe/G-Retriever)
 - [arXiv 2024.02] GraphEdit: Large Language Models for Graph Structure Learning [[paper]](https://arxiv.org/abs/2402.15183) [[code]](https://github.com/HKUDS/GraphEdit)
 - [arXiv 2024.02] Let Your Graph Do the Talking: Encoding Structured Data for LLMs [[paper]](https://arxiv.org/abs/2402.05862) 
 - [arXiv 2024.02] Exploring the Limitations of Graph Reasoning in Large Language Models [[paper]](https://arxiv.org/abs/2402.01805) [[code]](https://github.com/PalaashAgrawal/LLMGraphTraversal)
@@ -117,12 +120,14 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [arXiv 2023.08] SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning [[paper]](https://arxiv.org/abs/2308.02565) [[code]](https://github.com/vermouthdky/SimTeG)
 ## Hybrid or Others
 #### 2024 
+- [NeurIPS 2024] GITA: Graph to Visual and Textual Integration for Vision-Language Graph Reasoning [[paper]](https://arxiv.org/abs/2402.02130) [[code]](v-graph.github.io)
 - [KDD 2024] Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks [[paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671742) [[code]](https://github.com/JohnJiang12138/CMRP)
 - [KDD 2024] HiGPT: Heterogeneous Graph Language Model [[paper]](https://arxiv.org/abs/2402.16024) [[code]](https://github.com/HKUDS/HiGPT)
 - [CIKM 2024] Distilling Large Language Models for Text-Attributed Graph Learning [[paper]](https://arxiv.org/abs/2402.12022)
 - [WWW 2024] High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text-attributed Graphs [[paper]](https://arxiv.org/abs/2402.16240)
 - [ICML 2024] VisionGraph: Leveraging Large Multimodal Models for Graph Theory Problems in Visual Context [[paper]](https://arxiv.org/abs/2405.04950) [[code]](https://github.com/HITsz-TMG/VisionGraph)
 - [SIGKDD Explorations 2024] Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs [[paper]](https://arxiv.org/abs/2307.03393) [[code]](https://github.com/CurryTang/Graph-LLM)
+- [arXiv 2024.10] Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents [[paper]](https://arxiv.org/abs/2410.05130)
 - [arXiv 2024.07] Enhancing Graph Neural Networks with Limited Labeled Data by Actively Distilling Knowledge from Large Language Models [[paper]](https://arxiv.org/abs/2407.13989)
 - [arXiv 2024.07] Boosting Graph Foundation Model from Structural Perspective [[paper]](https://arxiv.org/abs/2407.19941) [[code]](https://anonymous.4open.science/r/BooG-EE42/)
 - [arXiv 2024.06] Bridging Local Details and Global Context in Text-Attributed Graphs [[paper]](https://arxiv.org/abs/2406.12608)
@@ -133,7 +138,6 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [arXiv 2024.02] Large Language Model Meets Graph Neural Network in Knowledge Distillation [[paper]](https://arxiv.org/abs/2402.05894)
 - [arXiv 2024.02] UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs [[paper]](https://arxiv.org/abs/2402.13630) [[code]](https://github.com/yf-he/UniGraph)
 - [arXiv 2024.02] HyperBERT: Mixing Hypergraph-Aware Layers with Language Models for Node Classification on Text-Attributed Hypergraphs [[paper]](https://arxiv.org/abs/2402.07309) [[code]](https://github.com/AdrianBZG/HyperBERT)
-- [arXiv 2024.02] GITA: Graph to Visual and Textual Integration for Vision-Language Graph Reasoning [[paper]](https://arxiv.org/abs/2402.02130) [[code]](v-graph.github.io)
 #### 2023
 - [ECML 2023] Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_10) [[code]](https://github.com/cmavro/GRAD)
 - [arXiv 2023.11] Which Modality should I use - Text, Motif, or Image? : Understanding Graphs with Large Language Models [[paper]](https://arxiv.org/abs/2311.09862)
@@ -156,6 +160,7 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [NeurIPS 2023 workshop] Towards Generalised Pre-Training of Graph Models [[paper]](https://arxiv.org/abs/2311.03976) [[code]](https://github.com/neutralpronoun/general-gcl)
 ## Graph Prompts
 #### 2024
+- [NeurIPS 2024] ProG: A Graph Prompt Learning Benchmark [[paper]](https://arxiv.org/abs/2406.05346) [[code]](https://github.com/sheldonresearch/ProG)
 - [KDD 2024] A Novel Prompt Tuning for Graph Transformers [[paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671804) [[code]](https://github.com/jikjn/TGPT)
 - [KDD 2024] Cross-Context Backdoor Attacks against Graph Prompt Learning [[paper]](https://arxiv.org/abs/2405.17984) [[code]](https://github.com/xtLyu/CrossBA)
 - [KDD 2024] Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs [[paper]](https://arxiv.org/abs/2407.15431) [[code]](https://github.com/THUDM/P2TAG)
@@ -170,10 +175,10 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [NN 2024] MIGP: Metapath Integrated Graph Prompt Neural Network [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0893608024005197) [[code]](https://github.com/hzw-ai/MIGP)
 - [KBS 2024] GPL-GNN: Graph prompt learning for graph neural network [[paper]](https://www.sciencedirect.com/science/article/pii/S0950705124000261) [[code]](https://github.com/chenzihaoww/GPL-GNN)
 - [IPM 2024] G-Prompt: Graphon-based Prompt Tuning for graph classification [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S030645732300376X)
+- [arXiv 2024.10] Does Graph Prompt Work A Data Operation Perspective with Theoretical Analysis [[paper]](https://arxiv.org/abs/2410.01635)
 - [arXiv 2024.08] Non-Homophilic Graph Pre-Training and Prompt Learning [[paper]](https://arxiv.org/abs/2408.12594) 
 - [arXiv 2024.08] RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning [[paper]](https://arxiv.org/abs/2408.03195)
 - [arXiv 2024.07] Graph Structure Prompt Learning: A Novel Methodology to Improve Performance of Graph Neural Networks [[paper]](https://arxiv.org/abs/2407.11361) [[code]](https://github.com/PreckLi/graph_prompt_learning)
-- [arXiv 2024.06] ProG: A Graph Prompt Learning Benchmark [[paper]](https://arxiv.org/abs/2406.05346) [[code]](https://github.com/sheldonresearch/ProG)
 - [arXiv 2024.06] A Unified Graph Selective Prompt Learning for Graph Neural Networks [[paper]](https://arxiv.org/abs/2406.10498)
 - [arXiv 2024.05] DyGPrompt: Learning Feature and Time Prompts on Dynamic Graphs [[paper]](https://arxiv.org/abs/2405.13937)
 - [arXiv 2024.05] Prompt-Enhanced Spatio-Temporal Graph Transfer Learning [[paper]](https://arxiv.org/abs/2405.12452)
@@ -199,6 +204,7 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [AAAI 2024] Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns [[paper]](https://arxiv.org/abs/2312.13583) [[code]](https://github.com/zjunet/G-Tuning)
 - [AAAI 2024] G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks [[paper]](https://arxiv.org/abs/2305.10329)
 - [AAAI 2024] AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks [[paper]](https://arxiv.org/abs/2304.09595) [[code]](https://github.com/Lucius-lsr/AdapterGNN)
+- [arXiv 2024.09] GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning [[paper]](https://arxiv.org/abs/2409.16670) [[code]](https://anonymous.4open.science/r/GraphLoRA)
 - [arXiv 2024.04] Parameter-Efficient Tuning Large Language Models for Graph Representation Learning [[paper]](https://arxiv.org/abs/2404.18271) 
 - [arXiv 2023.12] Efficient Large Language Models Fine-Tuning On Graphs [[paper]](https://arxiv.org/abs/2312.04737)
 - [arXiv 2023.09] TouchUp-G: Improving Feature Representation through Graph-Centric Finetuning [[paper]](https://arxiv.org/abs/2309.13885)
@@ -210,14 +216,15 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [arXiv 2024.06] Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models [[paper]](https://arxiv.org/abs/2406.01899) [[code]](https://github.com/WenzhuoTang/UniAug)
 - [arXiv 2024.02] Neural Scaling Laws on Graphs [[Paper]](https://arxiv.org/abs/2402.02054) [[code]](https://github.com/Liu-Jingzhe/graph-scaling-laws)
 ## Benchmarks
+- [NeurIPS 2024] Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models [[paper]](https://arxiv.org/abs/2409.19667) [[code]](https://github.com/BUPT-GAMMA/ProGraph)
+- [NeurIPS 2024] GLBench: A Comprehensive Benchmark for Graph with Large Language Models [[paper]](https://arxiv.org/abs/2407.07457) [[code]](https://github.com/NineAbyss/GLBench)
+- [NeurIPS 2024] DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs [[paper]](https://arxiv.org/abs/2406.12072) [[code]](https://github.com/zjs123/DTGB)
+- [NeurIPS 2024] TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs [[paper]](https://github.com/Zhuofeng-Li/TEG-Benchmark) [[code]](https://github.com/Zhuofeng-Li/TEG-Benchmark)
+- [NeurIPS 2024] Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights [[paper]](https://arxiv.org/abs/2406.10727) [[code]](https://github.com/CurryTang/TSGFM)
 - [arXiv 2024.07] Learning on Graphs with Large Language Models (LLMs): A Deep Dive into Model Robustness [[paper]](https://arxiv.org/abs/2407.12068) [[code]](https://github.com/KaiGuo20/GraphLLM_Robustness)
-- [arXiv 2024.07<!--07457-->] GLBench: A Comprehensive Benchmark for Graph with Large Language Models [[paper]](https://arxiv.org/abs/2407.07457) [[code]](https://github.com/NineAbyss/GLBench)
 - [arXiv 2024.07<!--00379-->] GraphArena: Benchmarking Large Language Models on Graph Computational Problems [[paper]](https://arxiv.org/abs/2407.00379) [[code]](https://github.com/squareRoot3/GraphArena)
 - [arXiv 2024.07<!--02936-->] GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models [[paper]](https://arxiv.org/abs/2407.02936) [[code]](https://github.com/ZIKEYUAN/GraCoRe)
 - [arXiv 2024.06<!--16176-->] GraphEval2000: Benchmarking and Improving Large Language Models on Graph Datasets [[paper]](https://arxiv.org/abs/2406.16176) [[code]](https://harrywuhust2022.github.io/GraphEval2000)
-- [arXiv 2024.06<!--12072-->] DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs [[paper]](https://arxiv.org/abs/2406.12072) [[code]](https://github.com/zjs123/DTGB)
-- [arXiv 2024.06<!--10727-->] Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights [[paper]](https://arxiv.org/abs/2406.10727) [[code]](https://github.com/CurryTang/TSGFM)
-- [arXiv 2024.06<!--10310-->] TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs [[paper]](https://github.com/Zhuofeng-Li/TEG-Benchmark) [[code]](https://github.com/Zhuofeng-Li/TEG-Benchmark)
 - [arXiv 2024.06<!--08310-->] GraphFM: A Comprehensive Benchmark for Graph Foundation Model [[paper]](https://arxiv.org/abs/2406.08310) [[code]](https://github.com/NYUSHCS/GraphFM)
 
 # Applications
