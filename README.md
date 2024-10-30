@@ -21,7 +21,7 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [TKDE 2024] Large Language Models on Graphs: A Comprehensive Survey [[paper]](https://arxiv.org/abs/2312.02783) [[paper list]](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)
 - [KDD 2024] A Survey of Large Language Models for Graphs [[paper]](https://arxiv.org/abs/2405.08011) [[paper list]](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
 - [ICML 2024] Position: Graph Foundation Models Are Already Here [[paper]](https://arxiv.org/abs/2402.02216) [[paper list]](https://github.com/CurryTang/Awesome_Graph_Foundation_Models)
-- [IEEE Intelligent Systems 2024.01] Integrating Graphs with Large Language Models: Methods and Prospects [[paper]](https://arxiv.org/abs/2310.05499
+- [IEEE Intelligent Systems 2024.01] Integrating Graphs with Large Language Models: Methods and Prospects [[paper]](https://arxiv.org/abs/2310.05499)
 - [arXiv 2024.10] Parametric Graph Representations in the Era of Foundation Models: A Survey and Position [[paper]](https://arxiv.org/abs/2410.12126)
 - [arXiv 2024.04] Graph Machine Learning in the Era of Large Language Models (LLMs) [[paper]](https://arxiv.org/abs/2404.14928)
 - [arXiv 2024.04] A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications [[paper]](https://arxiv.org/abs/2404.14809)
