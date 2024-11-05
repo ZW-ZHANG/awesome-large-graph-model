@@ -21,7 +21,7 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [TKDE 2024] Large Language Models on Graphs: A Comprehensive Survey [[paper]](https://arxiv.org/abs/2312.02783) [[paper list]](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs)
 - [KDD 2024] A Survey of Large Language Models for Graphs [[paper]](https://arxiv.org/abs/2405.08011) [[paper list]](https://github.com/HKUDS/Awesome-LLM4Graph-Papers)
 - [ICML 2024] Position: Graph Foundation Models Are Already Here [[paper]](https://arxiv.org/abs/2402.02216) [[paper list]](https://github.com/CurryTang/Awesome_Graph_Foundation_Models)
-- [IEEE Intelligent Systems 2024.01] Integrating Graphs with Large Language Models: Methods and Prospects [[paper]](https://arxiv.org/abs/2310.05499)
+- [IEEE Intelligent Systems 2024.01] Integrating Graphs with Large Language Models: Methods and Prospects [[paper]](https://arxiv.org/abs/2310.05499
 - [arXiv 2024.10] Parametric Graph Representations in the Era of Foundation Models: A Survey and Position [[paper]](https://arxiv.org/abs/2410.12126)
 - [arXiv 2024.04] Graph Machine Learning in the Era of Large Language Models (LLMs) [[paper]](https://arxiv.org/abs/2404.14928)
 - [arXiv 2024.04] A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications [[paper]](https://arxiv.org/abs/2404.14809)
@@ -108,6 +108,7 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [ICLR 2024] One for All Towards Training One Graph Model for All Classification Tasks [[paper]](https://arxiv.org/abs/2310.00149) [[code]](https://github.com/LechengKong/OneForAll)
 - [ICLR 2024] Label-free Node Classification on Graphs with Large Language Models (LLMS) [[paper]](https://arxiv.org/abs/2310.04668) [[code]](https://github.com/CurryTang/LLMGNN)
 - [SIGIR 2024] LLM-enhanced Cascaded Multi-level Learning on Temporal Heterogeneous Graphs [[paper]](https://dl.acm.org/doi/10.1145/3626772.3657731) [[code]](https://github.com/PasaLab/CasMLN)
+- [CIKM 2024] LLM-Empowered Few-Shot Node Classification on Incomplete Graphs with Real Node Degrees [[paper]](https://dl.acm.org/doi/10.1145/3627673.3679861) [[code]](https://github.com/liyunya/LLMDGCN)
 - [xAI 2024] Global Concept Explanations for Graphs by Contrastive Learning [[paper]](https://arxiv.org/abs/2404.16532) [[code]](https://github.com/aimat-lab/megan_global_explanations)
 - [arXiv 2024.09] LATEX-GCL: Large Language Models (LLMs)-Based Data Augmentation for Text-Attributed Graph Contrastive Learning[[paper]](https://arxiv.org/abs/2409.01145) [[code]](https://anonymous.4open.science/r/LATEX-GCL-0712)
 - [arXiv 2024.08] Exploring the Potential of Large Language Models for Heterophilic Graphs [[paper]](https://www.arxiv.org/abs/2408.14134)
@@ -126,6 +127,7 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [NeurIPS 2024] GITA: Graph to Visual and Textual Integration for Vision-Language Graph Reasoning [[paper]](https://arxiv.org/abs/2402.02130) [[code]](v-graph.github.io)
 - [KDD 2024] Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks [[paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671742) [[code]](https://github.com/JohnJiang12138/CMRP)
 - [KDD 2024] HiGPT: Heterogeneous Graph Language Model [[paper]](https://arxiv.org/abs/2402.16024) [[code]](https://github.com/HKUDS/HiGPT)
+- [ICDM 2024] AnomalyLLM: Few-shot Anomaly Edge Detection for Dynamic Graphs using Large Language Models [[paper]](https://arxiv.org/abs/2405.07626) [[code]](https://github.com/AnomalyLLM/AnomalyLLM)
 - [CIKM 2024] Distilling Large Language Models for Text-Attributed Graph Learning [[paper]](https://arxiv.org/abs/2402.12022)
 - [WWW 2024] High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text-attributed Graphs [[paper]](https://arxiv.org/abs/2402.16240)
 - [ICML 2024] VisionGraph: Leveraging Large Multimodal Models for Graph Theory Problems in Visual Context [[paper]](https://arxiv.org/abs/2405.04950) [[code]](https://github.com/HITsz-TMG/VisionGraph)
@@ -150,6 +152,7 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 
 # Non-LLMs Related
 ## Model
+- [NeurIPS 2024] RAGRAPH: A General Retrieval-Augmented Graph Learning Framework [[paper]](https://arxiv.org/abs/arXiv:2410.23855) [[code]](https://github.com/Artessay/RAGraph/)
 - [arXiv 2024.08] AnyGraph: Graph Foundation Model in the Wild [[paper]](https://arxiv.org/abs/2311.14324) [[code]](https://github.com/HKUDS/AnyGraph)
 - [arXiv 2024.06] Large Graph Generative Models [[paper]](https://arxiv.org/abs/2406.05109) [[code]](https://lggm-lg.github.io/)
 - [arXiv 2024.05] GraphAny: A Foundation Model for Node Classification on Any Graph [[paper]](https://arxiv.org/abs/2405.20445)
@@ -212,6 +215,7 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [AAAI 2024] Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns [[paper]](https://arxiv.org/abs/2312.13583) [[code]](https://github.com/zjunet/G-Tuning)
 - [AAAI 2024] G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks [[paper]](https://arxiv.org/abs/2305.10329)
 - [AAAI 2024] AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks [[paper]](https://arxiv.org/abs/2304.09595) [[code]](https://github.com/Lucius-lsr/AdapterGNN)
+- [arXiv 2024.11] HG-Adapter Improving Pre-Trained Heterogeneous Graph Neural Networks with Dual Adapters [[paper]](https://arxiv.org/abs/2411.01155)
 - [arXiv 2024.09] GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning [[paper]](https://arxiv.org/abs/2409.16670) [[code]](https://anonymous.4open.science/r/GraphLoRA)
 - [arXiv 2024.04] Parameter-Efficient Tuning Large Language Models for Graph Representation Learning [[paper]](https://arxiv.org/abs/2404.18271) 
 - [arXiv 2023.12] Efficient Large Language Models Fine-Tuning On Graphs [[paper]](https://arxiv.org/abs/2312.04737)
@@ -244,6 +248,7 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 ## Bios
 ### Molecules
 #### LLM-related
+- [NeurIPS 2024] LLaMo: Large Language Model-based Molecular Graph Assistant [[paper]](https://arxiv.org/abs/2411.00871) [[code]](https://github.com/mlvlab/LLaMo) 
 - [ACL 2024] MolTC: Towards Molecular Relational Modeling In Language Models [[paper]](https://arxiv.org/abs/2402.03781) [[code]](https://github.com/MangoKiller/MolTC) 
 - [CompBioMed 2024] GIT-Mol A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[paper]](https://arxiv.org/abs/2308.069) [[code]](https://github.com/AI-HPC-Research-Team/GIT-Mol)
 - [ACL Findings 2024] Harnessing Large Language Models as Post-hoc Correctors [[paper]](https://aclanthology.org/2024.findings-acl.867.pdf)
