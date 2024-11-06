@@ -11,7 +11,7 @@ This repository contains a paper list related to **Large Graph Models** and **Gr
 
 We will try our best to make this paper list updated. If you notice some related papers missing or have any suggestion, do not hesitate to contact us via pull requests at our repo.
 
-Note: this project was initiated while I was a postdoc researcher at Tsinghua University. I have started my new career at Beihang University so my personal updates for this paper list will be released in this forked repo.
+Note: this project was initiated while I was a postdoc researcher at Tsinghua University. I have started my new career at Beihang University, so currently this should be considered solely my personal updates for this paper list and does not reflect the opinion of any agency.
 
 
 # Perspective and Survey
@@ -63,7 +63,15 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [CLNLP 2024] End-to-End Graph Flattening Method for Large Language Models [[paper]](https://arxiv.org/abs/2409.14880) 
 - [arXiv 2024.10] Graph Linearization Methods for Reasoning on Graphs with Large Language Models [[paper]](https://arxiv.org/abs/2410.19494)
 - [arXiv 2024.10] GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration [[paper]](https://arxiv.org/abs/2410.18032) [[code]](https://github.com/BUPT-GAMMA/GraphTeam)
+- [arXiv 2024.10] TAGExplainer: Narrating Graph Explanations for Text-Attributed Graph Learning Models [[paper]](https://arxiv.org/abs/2410.15268)
+- [arXiv 2024.10] Enhance Graph Alignment for Large Language Models [[paper]](https://arxiv.org/abs/2410.11370)
+- [arXiv 2024.10] Unleashing the Power of LLMs as Multi-Modal Encoders for Text and Graph-Structured Data [[paper]](https://arxiv.org/abs/2410.11235)
+- [arXiv 2024.10] NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models [[paper]](https://arxiv.org/abs/2410.10743)
+- [arXiv 2024.10] Natural Language Counterfactual Explanations for Graphs Using Large Language Models [[paper]](https://arxiv.org/abs/2410.09295) [[code]](https://github.com/flaat/llm-graph-cf)
+- [arXiv 2024.10] Privately Learning from Graphs with Applications in Fine-tuning Large Language Models [[paper]](https://arxiv.org/abs/2410.08299) [[code]](https://github.com/Graph-COM/PvGaLM)
+- [arXiv 2024.10] Let’s Ask GNN: Empowering Large Language Model for Graph In-Context Learning [[paper]](https://arxiv.org/abs/2410.07074)
 - [arXiv 2024.10] Language Models are Graph Learners [[paper]](https://arxiv.org/abs/2410.02296)
+- [arXiv 2024.10] Lost-in-Distance Impact of Contextual Proximity on LLM Performance in Graph Tasks [[paper]](https://arxiv.org/abs/2410.01985)
 - [arXiv 2024.10] Verbalized Graph Representation Learning A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process [[paper]](https://arxiv.org/abs/2410.01457) [[code]](https://anonymous.4open.science/r/VGRL-7E1E)
 - [arXiv 2024.09] GUNDAM: Aligning Large Language Models with Graph Understanding [[paper]](https://arxiv.org/abs/2409.20053)
 - [arXiv 2024.09] Graph Reasoning with Large Language Models via Pseudo-code Prompting [[paper]](https://arxiv.org/abs/2409.17906) [[code]](https://github.com/y3nk0/graph-reasoning-llms)
@@ -112,7 +120,8 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [SIGIR 2024] LLM-enhanced Cascaded Multi-level Learning on Temporal Heterogeneous Graphs [[paper]](https://dl.acm.org/doi/10.1145/3626772.3657731) [[code]](https://github.com/PasaLab/CasMLN)
 - [CIKM 2024] LLM-Empowered Few-Shot Node Classification on Incomplete Graphs with Real Node Degrees [[paper]](https://dl.acm.org/doi/10.1145/3627673.3679861) [[code]](https://github.com/liyunya/LLMDGCN)
 - [xAI 2024] Global Concept Explanations for Graphs by Contrastive Learning [[paper]](https://arxiv.org/abs/2404.16532) [[code]](https://github.com/aimat-lab/megan_global_explanations)
-- [arXiv 2024.09] LATEX-GCL: Large Language Models (LLMs)-Based Data Augmentation for Text-Attributed Graph Contrastive Learning[[paper]](https://arxiv.org/abs/2409.01145) [[code]](https://anonymous.4open.science/r/LATEX-GCL-0712)
+- [arXiv 2024.10] Large Language Model-based Augmentation for Imbalanced Node Classification on Text Attributed Graphs [[paper]](https://arxiv.org/abs/2410.16882)
+- [arXiv 2024.09] LATEX-GCL: Large Language Models (LLMs)-Based Data Augmentation for Text-Attributed Graph Contrastive Learning [[paper]](https://arxiv.org/abs/2409.01145) [[code]](https://anonymous.4open.science/r/LATEX-GCL-0712)
 - [arXiv 2024.08] Exploring the Potential of Large Language Models for Heterophilic Graphs [[paper]](https://www.arxiv.org/abs/2408.14134)
 - [arXiv 2024.08] Node Level Graph Autoencoder: Unified Pretraining for Textual Graph Learning [[paper]](https://www.arxiv.org/abs/2408.07091)
 - [arXiv 2024.07] All Against Some: Efficient Integration of Large Language Models for Message Passing in Graph Neural Networks [[paper]](https://arxiv.org/abs/2407.14996) 
@@ -138,6 +147,8 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [arXiv 2024.10] A Hierarchical Language Model For Interpretable Graph Reasoning [[paper]](https://arxiv.org/abs/2410.22372)
 - [arXiv 2024.10] GCoder: Improving Large Language Model for Generalized Graph Problem Solving [[paper]](https://arxiv.org/abs/2410.19084) [[code]](https://github.com/Bklight999/WWW25-GCoder/tree/master)
 - [arXiv 2024.10] Can Large Language Models Act as Ensembler for Multi-GNNs? [[paper]](https://arxiv.org/abs/2410.16822) [[code]](https://anonymous.4open.science/r/EnsemGNN-E267/)
+- [arXiv 2024.10]] Bridging Large Language Models and Graph Structure Learning Models for Robust Representation Learning [[paper]](https://arxiv.org/abs/2410.12096)
+- [arXiv 2024.10] GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs [[paper]](https://arxiv.org/abs/2410.10329) [[code]](https://github.com/ZhuYun97/GraphCLIP)
 - [arXiv 2024.10] Scalable and Accurate Graph Reasoning with LLM-based Multi-Agents [[paper]](https://arxiv.org/abs/2410.05130)
 - [arXiv 2024.09] Exploring Graph Structure Comprehension Ability of Multimodal Large Language Models: Case Studies [[paper]](https://arxiv.org/abs/2409.08864)
 - [arXiv 2024.07] Enhancing Graph Neural Networks with Limited Labeled Data by Actively Distilling Knowledge from Large Language Models [[paper]](https://arxiv.org/abs/2407.13989)
@@ -295,7 +306,8 @@ Note: this project was initiated while I was a postdoc researcher at Tsinghua Un
 - [WWW 2024 Companion] Thought Graph: Generating Thought Process for Biological Reasoning [[paper]](https://arxiv.org/abs/2403.07144) [[code]](https://github.com/ethan5437/thought-graph-www/)
 #### Non-LLMs
 
-## Neural Architecture Search
+## AutoML
+- [arXiv 2024] AutoML-Agent A Multi-Agent LLM Framework for Full-Pipeline AutoML [[paper]](https://arxiv.org/abs/2410.02958)
 - [NeurIPS 2023] EvoPrompting: Language Models for Code-Level Neural Architecture Search [[paper]](https://arxiv.org/abs/2302.14838) [[code]](https://github.com/algopapi/EvoPrompting_Reinforcement_learning)
 - [arXiv 2023.12] Heterogeneous Graph Neural Architecture Search with GPT-4 [[paper]](https://arxiv.org/abs/2312.0868)
 - [arXiv 2023.10] Graph Neural Architecture Search with GPT-4 [[paper]](https://arxiv.org/abs/2310.01436)
